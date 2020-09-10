@@ -11,17 +11,10 @@ Have a look at the tutorial here https://scheible.it/digispark-usb-development-b
 - **Wifi-Grabber**: Grabs all of the netinfo and the Wifi-Passwords and copy it to a USB Stick.
 
 
-# Contributors
+# Authors
 
-- **samratashok**
-- **nassimosaz**
-- **p0wc0w**
-- **apsecdev**
-- **BlackBoot**
-- **Michyus**
-- **Vel1khaN**
-- **slipperyavocado**
-- **bernsteining**
+- **Rezureax**
+
 
 # Resources
 
