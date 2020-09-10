@@ -9,6 +9,7 @@ Have a look at the tutorial here https://scheible.it/digispark-usb-development-b
 # Script Descriptions
 
 - **Wifi-Grabber**: Grabs all of the netinfo and the Wifi-Passwords and copy it to a USB Stick.
+- **FakeUpdate**: Opens a fake webpage that looks like a Windows Update
 
 
 # Authors
