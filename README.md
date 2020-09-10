@@ -16,6 +16,10 @@ Have a look at the tutorial here https://scheible.it/digispark-usb-development-b
 
 - **Rezureax**
 
+# TODO:
+- More Scripts (Download&Execute/WallpaperTroll)
+
+
 
 # Resources
 
