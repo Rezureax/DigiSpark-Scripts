@@ -11,6 +11,7 @@ Have a look at the tutorial here https://scheible.it/digispark-usb-development-b
 - **Wifi-Grabber**: Grabs all of the netinfo and the Wifi-Passwords and copy it to a USB Stick.
 - **FakeUpdate**: Opens a fake webpage that looks like a Windows Update
 - **IpEmailer**:Grabs the Ip and send it to your Email
+- **DownloadAndExecute**:Downloads a file and execute it
 
 
 # Authors
